@@ -6,4 +6,4 @@ College student interested in computer science focusing on the development and m
 Excellent organizational skills with the ability to establish strong relationships with business partners. 
 Background in Mircosoft Office, Adobe Web Design, and Autodesk AutoCAD computer applicataions. 
 
-Currently learning how to code anad debug java applications. 
+Currently learning how to code and debug java applications. 
